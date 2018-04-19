@@ -3,26 +3,26 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Analyse van de smartphone en smartwatch
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.5
+  task: Bezoek museum 
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 1.0
+  task: installatie
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 1.0
+  task: Wireflow smartwatch. 
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Prototype smartwatch.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: info in site plaatsten
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: wireflow maken (smartphone)
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: wireflow maken (smartwatch)
