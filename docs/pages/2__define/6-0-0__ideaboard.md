@@ -7,10 +7,8 @@ published: true
 title: Ideaboard
 ---
 
-![ideabord-1](http://127.0.0.1:4000/1718-nmd3-project/images/ideabord.jpg "width="80%")
+![ideabord1](http://127.0.0.1:4000/1718-nmd3-project/images/ideabord.jpg){:style="width: 100%"}
 
-![ideabord-2](http://127.0.0.1:4000/1718-nmd3-project/images/ideabord2.jpg)
+![ideabord2](http://127.0.0.1:4000/1718-nmd3-project/images/ideabord2.jpg){:style="width: 100%"}
 
-
-![ideabord-3](http://127.0.0.1:4000/1718-nmd3-project/images/ideabord3.jpg)
-
+![ideabord3](http://127.0.0.1:4000/1718-nmd3-project/images/ideabord3.jpg){:style="width: 100%"}
