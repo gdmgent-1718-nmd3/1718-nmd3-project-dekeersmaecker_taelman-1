@@ -13,16 +13,4 @@
   task: installatie
 -
   time: 1.0
-  task: Wireflow smartwatch. 
--
-  time: 1.25
-  task: Prototype smartwatch.
--
-  time: 1.00
-  task: info in site plaatsten
--
-  time: 2.00
-  task: wireflow maken (smartphone)
--
-  time: 1.00
-  task: wireflow maken (smartwatch)
+  task: ELevator pitch maken en idee op punt stellen  

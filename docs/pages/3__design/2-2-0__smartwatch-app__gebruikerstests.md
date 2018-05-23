@@ -10,7 +10,7 @@ title: Gebruikerstests
 Paper Prototype
 ---------------
 
-**Prototype 1**
+### prototype 1
 
 ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/P1040341.JPG){:style="width: 100%"}
 
@@ -29,8 +29,19 @@ Paper Prototype
 ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/P1040349.JPG){:style="width: 100%"}
 
 ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/P1040350.JPG){:style="width: 100%"}
+<br>
 
-**prototype 2**
+**analyse**
+<br>
+Te weinig schermen. 
+De overgang van homescreen naar de app zelf was te vlug. 
+Misschien een pagina met de verschillende talen. De gebruiker kan deze aanpassen in de instellingen. 
+Dus ook een scherm waar er extra instellingen zijn die ze kunnen aanpassen. 
+We kunnen ook de app uitbereiden door niet alleen het muzeum erin te verwerken, maar heel de stad. Oostende heeft veel verschillende kunstroutes. En er worden verschillende app's gebruikt hiervoor. Waarom niet allemaal samenbrengen in 1 app. De gebruiker kan ook inloggen met eigen gegevens en de routes worden bijgehouden. Bepaalde routes zullen betalend zijn waardoor bepaalde gegevens gevraagd zullen worden. 
+
+
+<br>
+### prototype 2
 
 ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/P1040351.JPG){:style="width: 100%"}
 

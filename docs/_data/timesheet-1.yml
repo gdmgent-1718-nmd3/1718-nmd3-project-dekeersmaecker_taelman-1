@@ -1,5 +1,5 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ Karen Taelman ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
@@ -13,22 +13,68 @@
   task: installatie
 -
   time: 1.0
+  task: ELevator pitch maken en idee op punt stellen  
+-
+  time: 1.5
+  task: typografie en kleuren kiezen.   
+-
+  time: 1.0
+  task: Wireflow smartwatch. 
+-
+  time: 1.0
+  task: maken wireframes smartwatch. 
+-
+  time: 1.5
   task: Wireflow smartwatch. 
 -
   time: 1.25
   task: Prototype smartwatch.
 -
   time: 1.00
-  task: prototype testen (foto's maken)
--
-  time: 1.00
-  task: info in site plaatsten
+  task: idee smartwatch uitwerken/ visual designs. 
 -
   time: 2.00
-  task: wireflow maken (smartphone)
+  task: begin wireframes smarphone
 -
   time: 1.00
-  task: wireflow maken (smartwatch)
+  task: idee smartwatch uitwerken/ visual designs. 
 -
   time: 1.00
-  task: wireflow maken (smartwatch)
+  task: wireframes smartphone
+-
+  time: 2.00
+  task: Visual designs maken
+-
+  time: 3.00
+  task: Visual designs smartphone en smartwatch
+-
+  time: 2.00
+  task: Beginnen site wireframes
+-
+  time: 1.00
+  task: analyse afwerken en plaatsen online
+-
+  time: 1.00
+  task: Smartwatch en phone visuals afwerken
+-
+  time: 1.00
+  task: smartwatch en phone online plaatsten
+-
+  time: 1.00
+  task: Smartphone en watch aanpassen, kleine details
+-
+  time: 1.00
+  task: video's maken hoe de app zou werken. 
+-
+  time: 2.00
+  task: Website wireframes en visuals 
+-
+  time: 2.00
+  task: website visuals afwerken
+-
+  time: 1.00
+  task: laaste details af te werkenen aan te passen 
+-
+  time: 2.00
+  task: Designs online plaatsten, details afwerken. 
+-
