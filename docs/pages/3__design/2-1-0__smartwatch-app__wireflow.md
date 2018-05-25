@@ -7,4 +7,6 @@ published: true
 title: Wireflow
 ---
 
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/wireframes-03.png){:style="width: 100%"}
+Dit is [smartwatch](https://xd.adobe.com/view/e31aba26-7058-41dd-7d3f-515b948946b1-952b/){:target="_parent"}{:.btn.btn-primary}
+
+

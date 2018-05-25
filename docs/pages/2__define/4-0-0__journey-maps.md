@@ -9,5 +9,11 @@ title: Journey Maps
 
 ![journeymap](http://127.0.0.1:4000/1718-nmd3-project/images/costumers journey.png){:style="width: 100%"}
 
+customer 
 
-![journeymap](http://127.0.0.1:4000/1718-nmd3-project/images/costumers journey.png){:style="width: 100%"}
+
+search 
+
+
+review
+
