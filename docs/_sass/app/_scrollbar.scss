@@ -6,11 +6,11 @@ $scrollbar-width: .4em;
   width: $scrollbar-width;
 }
 ::-webkit-scrollbar-track {
-  background: rgba($light, .2);
+  background: rgba($white, .2);
     // -webkit-box-shadow: none;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: rgba($primary, .5);
+  background-color: rgba($white, .5);
   border-radius: $scrollbar-width / 2;
 }
 ::-webkit-scrollbar-thumb:hover {

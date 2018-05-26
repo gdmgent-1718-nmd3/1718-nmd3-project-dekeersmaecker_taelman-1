@@ -36,6 +36,7 @@ Misschien een pagina met de verschillende talen. De gebruiker kan deze aanpassen
 Dus ook een scherm waar er extra instellingen zijn die ze kunnen aanpassen. 
 We kunnen ook de app uitbereiden door niet alleen het muzeum erin te verwerken, maar heel de stad. Oostende heeft veel verschillende kunstroutes. En er worden verschillende app's gebruikt hiervoor. Waarom niet allemaal samenbrengen in 1 app. De gebruiker kan ook inloggen met eigen gegevens en de routes worden bijgehouden. Bepaalde routes zullen betalend zijn waardoor bepaalde gegevens gevraagd zullen worden. 
 
+___
 
 <br>
 <span style="color: #C73730;font-size: 2em;">
