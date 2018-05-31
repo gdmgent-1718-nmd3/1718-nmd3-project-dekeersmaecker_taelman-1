@@ -7,6 +7,10 @@ published: true
 title: Typografie
 ---
 
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/fonts-12.png){:style="width: 100%"}
+Deze fonts werden gekozen om dat deze goed passen bij het logo die we hebben ontworpen voor de app. 
+We maken gebruik van Arial rounded en Nunito. 
 
-Dit font werd gekozen om dat deze goed paste bij het logo die we hebben ontworpen voor de app. 
+
+![Typografie styleguide](http://127.0.0.1:4000/1718-nmd3-project/images/Styleguid- Typografie.png){:style="width: 100%"}
+
+![Typografie](http://127.0.0.1:4000/1718-nmd3-project/images/fonts-12.png){:style="width: 100%"}
