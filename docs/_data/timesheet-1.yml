@@ -3,22 +3,22 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 1.00
+  time: 2.00
   task: Analyse van de smartphone en smartwatch
 -
-  time: 2.5
+  time: 3.5
   task: Bezoek museum 
 -
   time: 1.0
-  task: installatie
+  task: Installatie
 -
-  time: 1.0
+  time: 2.0
   task: Elevator pitch maken en idee op punt stellen  
 -
   time: 1.5
-  task: typografie en kleuren kiezen.   
+  task: Typografie en kleuren kiezen.   
 -
-  time: 1.0
+  time: 2.0
   task: Wireflow smartwatch. 
 -
   time: 1.0
@@ -30,72 +30,81 @@
   time: 1.25
   task: Prototype smartwatch.
 -
-  time: 1.00
+  time: 3.00
+  task: Paper prototype maken smartwatch en samrtphone.
+-
+  time: 2.00
   task: idee smartwatch uitwerken/ visual designs. 
 -
   time: 2.00
   task: begin wireframes smarphone
 -
-  time: 1.00
+  time: 2.5
   task: idee smartwatch uitwerken/ visual designs. 
 -
-  time: 1.00
+  time: 2.5
   task: wireframes smartphone
 -
-  time: 2.00
+  time: 3.00
   task: Visual designs maken
 -
   time: 3.00
   task: Visual designs smartphone en smartwatch
 -
-  time: 2.00
+  time: 3.00
   task: Beginnen site wireframes
 -
-  time: 1.00
+  time: 2.00
   task: analyse afwerken en plaatsen online
 -
-  time: 1.00
+  time: 2.00
   task: Smartwatch en phone visuals afwerken
 -
-  time: 1.00
-  task: smartwatch en phone online plaatsten
+  time: 2.00
+  task: Markdown analyseren. 
 -
   time: 1.00
+  task: Smartwatch en phone online plaatsten
+-
+  time: 2.5
   task: Smartphone en watch aanpassen, kleine details
 -
   time: 1.00
-  task: video's maken hoe de app zou werken. 
+  task: Video's maken hoe de app zou werken. 
 -
   time: 2.00
-  task: Website wireframes en visuals 
+  task: Analyse video in markdown. video in productiedossier plaatsen. 
 -
   time: 2.00
-  task: website visuals afwerken
+  task: Website visuals afwerken
 -
   time: 1.00
-  task: laaste details af te werkenen aan te passen 
+  task: Laaste details af te werkenen aan te passen 
 -
   time: 2.00
   task: Designs online plaatsten, details afwerken. 
 -
   time: 2.00
-  task: feedback van de leerkracht, aanpassen designs.  
--
-  time: 2.00
-  task: Aanpassen designs en afwerken.  
--
-  time: 2.00
-  task: style guide op punt stellen.
+  task: Feedback van de leerkracht, aanpassen designs.  
 -
   time: 4.00
-  task: Online site afwerken, afbeeldingen in plaatsten en vormgeven. 
+  task: Aanpassen designs en afwerken.  
 -
-  time: 1.00
-  task: Alle links in de app en site protype nakijken.  
+  time: 3.00
+  task: Style guide op punt stellen.
+-
+  time: 4.00
+  task: Productiedossier afwerken, afbeeldingen in plaatsten en vormgeven. 
 -
   time: 2.00
+  task: Alle links in de app en site protype nakijken.  
+-
+  time: 4.00
+  task: Aanpassen markdown.  
+-
+  time: 8.5
   task: Afwerken productiedossier.  
 -
-  time: 1.00
+  time: 4.00
   task: Presentatie maken. 
 -

@@ -20,6 +20,15 @@ ___
 :-------------------------:|:-------------------------:
 ![screendesign test](http://127.0.0.1:4000/1718-nmd3-project/images/A.R. 2.png){:style="width: 60%"}| Geen afgeronde hoeken gebruiken bij de navigatie onderaan. Ziet er onprofessioneel uit. 
 
+
+___
+<span style="color: #af1d1f; font-family: nunito;font-size: 24pt;">
+Analyse smarthphone app.
+</span>
+
+Na het eerste design van de app hebben we besloten om de kleuren te veranderen en een kleur te nemen met een betekenis. (Zie UI-style-guide)
+Omdat niet alles uniform wat doorheen de app zijn we samen gaan zitten om dit te bekijken. We zijn op zoek gegaan naar de beste knoppen, kleuren en lettertypen die een goede huisstijl vormen voor de app. Dit hadden we dan ook verder doorgetrokken in onze smarthwatch app. 
+
 ___
 
 :-------------------------:|:-------------------------:

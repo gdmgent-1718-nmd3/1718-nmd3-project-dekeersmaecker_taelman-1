@@ -16,5 +16,6 @@ title: Wireflow
 
 
 Hieronder vindt je de link naar onze smartwatch wireflow
-[Smartwatch wireflow](https://xd.adobe.com/view/e31aba26-7058-41dd-7d3f-515b948946b1-952b/){:target="_parent"}{:.btn.btn-primary}
+
+[Smartwatch wireflow](https://xd.adobe.com/view/e31aba26-7058-41dd-7d3f-515b948946b1-952b/){:target="_blank"}{:.btn.btn-primary}
 

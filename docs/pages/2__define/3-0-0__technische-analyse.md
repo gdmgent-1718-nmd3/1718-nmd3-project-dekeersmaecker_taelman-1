@@ -7,11 +7,13 @@ published: true
 title: Technische Analyse
 ---
 
+
 <span style="color: #C73730;font-size: 2em;">
 smartwatch: Samsung Gear S
 
 :-------------------------:|:-------------------------:
 ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/Gear.jpg){:style="width: 80%"}  |  ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/Untitled-1-02.jpg){:style="width: 80%"}
+
 
 
 **Technische info**
@@ -30,7 +32,7 @@ smartwatch: Samsung Gear S
 - **Geheugengrootte**: 512MB
 - **Opslagcapaciteit**: 4GB
 
-**scherm**
+**Scherm**
 
 - **Schermdiagonaal**: 2"
 - **Resolutie**: 480x360
@@ -39,7 +41,7 @@ smartwatch: Samsung Gear S
 ____________________________________________________________________
 
 <span style="color: #C73730;font-size: 2em;">
- smartphone: Samsung J5
+ Smartphone: Samsung J5
 
 
 ![Smartphone](http://127.0.0.1:4000/1718-nmd3-project/images/samsung.jpg){:style="width: 50%"} 
@@ -60,3 +62,4 @@ ____________________________________________________________________
 - **CPU cores**: Octa Core
 - **CPU snelheid**: 1.6 GHz
 - **Werkgeheugen**: 3 GB
+
