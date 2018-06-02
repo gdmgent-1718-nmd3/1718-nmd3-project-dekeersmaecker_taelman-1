@@ -24,5 +24,5 @@ Omdat bepaalde routes betalend zijn zullen de gebruikers van de app zich kunnen 
 
 Zoals in google maps zullen de gebruikers de mappen van de routes kunnen downloaden en zal de map voor een bepaalde tijd in hun app staan. Deze zal na een bepaalde periode dan ook verdwijnen. Dit kan alleen met de gratis routes.  
 
-![video](http://127.0.0.1:4000/1718-nmd3-project/images/video.mp4)
-{:style="width: 100%"}
+
+[Concept video](https://www.youtube.com/watch?v=1NNVfF4In5Q&feature=youtu.be){:target="_blank"}{:.btn.btn-primary}
