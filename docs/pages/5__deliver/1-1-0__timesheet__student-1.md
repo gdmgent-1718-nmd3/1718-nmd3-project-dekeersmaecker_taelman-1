@@ -1,6 +1,6 @@
 ---
 layout   : default
-permalink: 
+permalink: deliver/timesheets/student-1/
 published: true
 # Custom Page Variables
 # ─────────────────────
