@@ -7,4 +7,4 @@ published: true
 title: Sitemap
 ---
 
-![Sitemap](http://127.0.0.1:4000/1718-nmd3-project/images/sitemap.png){:style="width: 100%"}
+![Sitemap]({{ '/images/sitemap.png' | relative_url }}){:style="width: 100%"}

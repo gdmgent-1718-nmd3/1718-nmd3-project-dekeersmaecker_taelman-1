@@ -6,14 +6,15 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+## Paper Prototype 
+![Prototype wireflow]({{ '/images/wireflowwireframes-02.png' | relative_url }}){:style="width: 100%"}
 
+## Screen Prototype 
+![Smartwatch wireflow]({{ '/images/wireflowwireframes-02.png' | relative_url }}){:style="width: 100%"}
 
+## Mogelijk pad in de app
 
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/wireflowwireframes-02.png){:style="width: 100%"}
-
-
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/wireflow-02.png){:style="width: 100%"}
-
+![Smartwatch wireflow]({{ '/images/wireflow-02.png' | relative_url }}){:style="width: 100%"}
 
 Hieronder vindt je de link naar onze smartwatch wireflow
 

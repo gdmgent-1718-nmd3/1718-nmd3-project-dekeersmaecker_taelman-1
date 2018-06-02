@@ -7,8 +7,7 @@ published: true
 title: Wireflow
 ---
 
-
-![screen design test](http://127.0.0.1:4000/1718-nmd3-project/images/Wireflow2.jpg){:style="width: 80%"}
+![Screen design test]({{ '/images/Wireflow2.jpg' | relative_url }}){:style="width: 100%"}
 
 
 Hieronder vind je de link naar de wireflow van de smartphone.

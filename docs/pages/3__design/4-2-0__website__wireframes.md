@@ -8,18 +8,26 @@ title: Wireframes
 ---
 
 :-------------------------:|:-------------------------:
-![Website home](http://127.0.0.1:4000/1718-nmd3-project/images/home – 1.png){:style="width: 100%"}  |  ![Website overview](http://127.0.0.1:4000/1718-nmd3-project/images/product overview – 1.png){:style="width: 100%"}
+![website home]({{ '/images/home – 1.png' | relative_url }}){:style="width: 100%"} | ![website overview]({{ '/images/product overview – 1.png' | relative_url }}){:style="width: 100%"}
+
 
 :-------------------------:|:-------------------------:
-![website learn](http://127.0.0.1:4000/1718-nmd3-project/images/learn – 1.png){:style="width: 100%"} |  ![Website features](http://127.0.0.1:4000/1718-nmd3-project/images/features – 1.png){:style="width: 100%"}
+![website learn]({{ '/images/watch video – 1.png' | relative_url }}){:style="width: 100%"} | ![website features]({{ '/images/features – 1.png' | relative_url }}){:style="width: 100%"}
+
 
 :-------------------------:|:-------------------------:
-![Website video](http://127.0.0.1:4000/1718-nmd3-project/images/watch video – 1.png){:style="width: 80%"} | ![website faq](http://127.0.0.1:4000/1718-nmd3-project/images/faqs – 1.png){:style="width: 80%"}
+![website video]({{ '/images/learn – 1.png' | relative_url }}){:style="width: 100%"} | ![website faq]({{ '/images/faqs – 1.png' | relative_url }}){:style="width: 100%"}
+
+
 
 :-------------------------:|:-------------------------:
-![Website testimonials](http://127.0.0.1:4000/1718-nmd3-project/images/testimonials – 1.png){:style="width: 80%"}| ![Website download](http://127.0.0.1:4000/1718-nmd3-project/images/download – 1.png){:style="width: 80%"}
+![website testimonials]({{ '/images/testimonials – 1.png' | relative_url }}){:style="width: 100%"} | ![website download]({{ '/images/download – 1.png' | relative_url }}){:style="width: 100%"}
+
+
 
 :-------------------------:|:-------------------------:
-![Website contact](http://127.0.0.1:4000/1718-nmd3-project/images/Contact us – 1.png){:style="width: 80%"}| ![Website aboutus](http://127.0.0.1:4000/1718-nmd3-project/images/about us – 1.png){:style="width: 80%"}
+![website contact]({{ '/images/Contact us – 1.png' | relative_url }}){:style="width: 100%"} | ![website about us]({{ '/images/about us – 1.png' | relative_url }}){:style="width: 100%"}
+
+
 
 

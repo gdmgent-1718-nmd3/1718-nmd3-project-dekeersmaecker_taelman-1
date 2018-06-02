@@ -9,11 +9,10 @@ title: Technische Analyse
 
 
 <span style="color: #C73730;font-size: 2em;">
-smartwatch: Samsung Gear S
+Smartwatch: Samsung Gear S
 
 :-------------------------:|:-------------------------:
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/Gear.jpg){:style="width: 80%"}  |  ![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/Untitled-1-02.jpg){:style="width: 80%"}
-
+![smartwatch foto]({{ '/images/Gear.jpg' | relative_url }}){:style="width: 80%"} | ![smartwatch foto]({{ '/images/Untitled-1-02.jpg' | relative_url }}){:style="width: 80%"}
 
 
 **Technische info**
@@ -43,8 +42,7 @@ ____________________________________________________________________
 <span style="color: #C73730;font-size: 2em;">
  Smartphone: Samsung J5
 
-
-![Smartphone](http://127.0.0.1:4000/1718-nmd3-project/images/samsung.jpg){:style="width: 50%"} 
+![smartwatch foto]({{ '/images/samsung.jpg' | relative_url }}){:style="width: 80%"} 
 
 **Technische info**
 

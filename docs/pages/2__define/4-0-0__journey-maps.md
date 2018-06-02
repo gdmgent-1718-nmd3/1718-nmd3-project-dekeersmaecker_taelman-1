@@ -9,7 +9,8 @@ title: Journey Maps
 
 
 ## Journey Map 1
-![journeymap](http://127.0.0.1:4000/1718-nmd3-project/images/costumers journey1-01.png){:style="width: 100%"}
+
+![journey map1]({{ '/images/costumers journey1-01.png' | relative_url }}){:style="width: 100%"}
 
 <span style="color: #af1d1f; font-family: nunito;font-size: 24pt;">
 Acties/ taken 
@@ -65,7 +66,7 @@ Meer kunstwerken hangen, of meer kleur gebruiken in het museum. Geen opvallend k
 
 __________
 
-![journeymap](http://127.0.0.1:4000/1718-nmd3-project/images/costumers journey-02.png){:style="width: 100%"}
+![journey map1]({{ '/images/costumers journey-02.png' | relative_url }}){:style="width: 100%"}
 
 ## Joureney Map 2
 

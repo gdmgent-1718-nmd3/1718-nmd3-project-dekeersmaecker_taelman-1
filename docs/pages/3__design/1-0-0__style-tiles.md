@@ -9,11 +9,11 @@ title: Style Tiles
 
 | **Gekozen**      |  **Alternatief 1**          |
 | ------------- |:-------------:|
-| ![Styletile-1](http://127.0.0.1:4000/1718-nmd3-project/images/styletile3.png){:style="width: 100%"} | ![Styletile-2](http://127.0.0.1:4000/1718-nmd3-project/images/styletile-01.png){:style="width: 100%"}
+| ![Styletile 1]({{ '/images/styletile3.png' | relative_url }}){:style="width: 100%"}  | ![styletile 2]({{ '/images/styletile-01.png' | relative_url }}){:style="width: 100%"} 
 
 ___
 
 
 | **Alternatief 2**     |  
 | ------------- |:-------------:|
-| ![Styletile-3](http://127.0.0.1:4000/1718-nmd3-project/images/styletile-02.png){:style="width: 50%"}   | 
+| ![Styletile 3]({{ '/images/styletile-02.png' | relative_url }}){:style="width: 50%"}  | 

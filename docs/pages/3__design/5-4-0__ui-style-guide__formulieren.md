@@ -7,4 +7,5 @@ published: true
 title: Formulieren
 ---
 
-![styleguide-kleuren](http://127.0.0.1:4000/1718-nmd3-project/images/Styleguid- Formulieren.png){:style="width: 100%"}
+
+![styleguide-forms]({{ '/images/Styleguid- Formulieren.png' | relative_url }}){:style="width: 100%"}

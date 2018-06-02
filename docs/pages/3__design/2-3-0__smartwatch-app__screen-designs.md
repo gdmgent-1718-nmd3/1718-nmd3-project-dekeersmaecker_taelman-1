@@ -7,6 +7,7 @@ published: true
 title: Screen Designs
 ---
 
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/all wireflow-01.png){:style="width: 100%"}
 
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/screen designs-03.png){:style="width: 100%"}
+![Smartwatch]({{ '/images/all wireflow-01.png' | relative_url }}){:style="width: 100%"}
+
+![Smartwatch]({{ '/images/screen designs-03.png' | relative_url }}){:style="width: 100%"}

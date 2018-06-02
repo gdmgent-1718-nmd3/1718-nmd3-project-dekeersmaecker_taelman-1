@@ -10,7 +10,7 @@ title: Typografie
 Deze fonts werden gekozen om dat deze goed passen bij het logo die we hebben ontworpen voor de app. 
 We maken gebruik van Arial rounded en Nunito. 
 
+![Typo styleguide]({{ '/images/Styleguid- Typografie.png' | relative_url }}){:style="width: 100%"}
 
-![Typografie styleguide](http://127.0.0.1:4000/1718-nmd3-project/images/Styleguid- Typografie.png){:style="width: 100%"}
 
-![Typografie](http://127.0.0.1:4000/1718-nmd3-project/images/fonts-12.png){:style="width: 100%"}
+![Typo styleguide]({{ '/images/fonts-12.png' | relative_url }}){:style="width: 100%"}

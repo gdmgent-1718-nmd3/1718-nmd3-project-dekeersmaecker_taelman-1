@@ -13,4 +13,4 @@ Hier vindt u onze website prototype en Design Specs
 
 [Design specs](https://xd.adobe.com/spec/a0a67462-8fd4-411b-6e44-652991f264de-d697/){:target="_blank"}{:.btn.btn-primary}
 
-![screen designs](http://127.0.0.1:4000/1718-nmd3-project/images/screen designs.png){:style="width: 80%"}
+![website about us]({{ '/images/screen designs.png' | relative_url }}){:style="width: 100%"}

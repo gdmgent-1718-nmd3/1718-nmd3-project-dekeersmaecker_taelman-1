@@ -9,4 +9,4 @@ title: Smartwatch-app
 
 Voor onze smartwatch applicatie hebben we gekozen om de Samsung Gear S te gebruiken. 
 
-![Smartwatch](http://127.0.0.1:4000/1718-nmd3-project/images/mockup_samsung_gear_s_smartwatch_1.jpg){:style="width: 100%"}
+![Styletile 3]({{ '/images/mockup_samsung_gear_s_smartwatch_1.jpg' | relative_url }}){:style="width: 100%"}
