@@ -6,9 +6,8 @@ published: true
 # ─────────────────────
 title: UI Style Guide
 ---
+___ 
 
-
-<span style="color: #C73730;font-size: 2em;">
-Styleguide
+### Styleguide
 
 ![Styleguide]({{ '/images/StyleGuide.png' | relative_url }}){:style="width: 100%"}

@@ -6,13 +6,19 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-## Paper Prototype 
-![Prototype wireflow]({{ '/images/wireflowwireframes-02.png' | relative_url }}){:style="width: 100%"}
+___ 
 
-## Screen Prototype 
+
+### Paper Prototype 
+
+:-------------------------:|:-------------------------:
+![Prototype wireflow]({{ '/images/IMG_5962.JPG' | relative_url }}){:style="width: 100%"}|  ![Prototype wireflow]({{ '/images/IMG_5964.JPG' | relative_url }}){:style="width: 100%"}
+
+
+### Screen Prototype 
 ![Smartwatch wireflow]({{ '/images/wireflowwireframes-02.png' | relative_url }}){:style="width: 100%"}
 
-## Mogelijk pad in de app
+### Mogelijk pad in de app
 
 ![Smartwatch wireflow]({{ '/images/wireflow-02.png' | relative_url }}){:style="width: 100%"}
 

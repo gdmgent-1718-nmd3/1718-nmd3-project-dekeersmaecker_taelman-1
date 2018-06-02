@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: Style Tiles
 ---
+___ 
+
 
 | **Gekozen**      |  **Alternatief 1**          |
 | ------------- |:-------------:|

@@ -6,10 +6,11 @@ published: true
 # ─────────────────────
 title: Technische Analyse
 ---
+___ 
 
 
-<span style="color: #C73730;font-size: 2em;">
-Smartwatch: Samsung Gear S
+## Smartwatch: Samsung Gear S
+
 
 :-------------------------:|:-------------------------:
 ![smartwatch foto]({{ '/images/Gear.jpg' | relative_url }}){:style="width: 80%"} | ![smartwatch foto]({{ '/images/Untitled-1-02.jpg' | relative_url }}){:style="width: 80%"}
@@ -39,8 +40,9 @@ Smartwatch: Samsung Gear S
 
 ____________________________________________________________________
 
-<span style="color: #C73730;font-size: 2em;">
- Smartphone: Samsung J5
+
+Smartphone: Samsung J5
+ {:.h2}
 
 ![smartwatch foto]({{ '/images/samsung.jpg' | relative_url }}){:style="width: 80%"} 
 

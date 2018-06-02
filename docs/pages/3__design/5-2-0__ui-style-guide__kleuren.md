@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
+___ 
 
 ![styleguide-kleuren]({{ '/images/Styleguid- kleuren.png' | relative_url }}){:style="width: 100%"}
 

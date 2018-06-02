@@ -6,12 +6,12 @@ published: true
 # ─────────────────────
 title: Gebruikerstests
 ---
+___ 
 
-Paper Prototype
----------------
-<br>
-<span style="color: #C73730;font-size: 2em;">
-Prototype 1
+
+### Paper Prototype
+
+## Prototype 1
 
 
 :-------------------------:|:-------------------------:
@@ -28,10 +28,9 @@ Prototype 1
 ![Smartwatch wireflow]({{ '/images/P1040349.JPG' | relative_url }}){:style="width: 100%"} |  ![Smartwatch wireflow]({{ '/images/P1040350.JPG' | relative_url }}){:style="width: 100%"}
 
 
-<span style="color: #af1d1f; font-family: nunito;font-size: 24pt;">
-Analyse
-</span><br>
-<span style="color: #000000; font-family: nunito; font-size: 1em;">
+
+### Analyse
+
 Te weinig schermen. 
 De overgang van homescreen naar de app zelf was te vlug. 
 Misschien een pagina met de verschillende talen. De gebruiker kan deze aanpassen in de instellingen. 
@@ -40,9 +39,8 @@ We kunnen ook de app uitbereiden door niet alleen het muzeum erin te verwerken, 
 
 ___
 
-<br>
-<span style="color: #C73730;font-size: 2em;">
-Prototype 2
+
+## Prototype 2
 
 :-------------------------:|:-------------------------:
 ![Smartwatch wireflow]({{ '/images/P1040351.JPG' | relative_url }}){:style="width: 100%"} |  ![Smartwatch wireflow]({{ '/images/P1040352.JPG' | relative_url }}){:style="width: 100%"}
@@ -70,10 +68,9 @@ Prototype 2
 
 
 
-<span style="color: #af1d1f; font-family: nunito;font-size: 24pt;">
-Analyse
-</span><br>
-<span style="color: #000000; font-family: nunito; font-size: 1em;">
+
+### Analyse
+
 Goede workflow. In detail nog wat verbeteren. 
 - Aanpassen route pagina's. Te kleine knoppen. Tekst groter maken en eenvoudiger maken. 
 - Einscherm maken na audio scherm, bij het aanklikken van info knop. 

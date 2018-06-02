@@ -6,14 +6,16 @@ permalink: home
 # ─────────────────────
 title: Opdracht NMD-III
 ---
+___ 
 
 Wie zijn we?
 ------------
 
-#### Ruben De Keersmaecker
 
-![foto ruben]({{ '/images/mu.zee_-_kunstmuseum_aan_zee-33454-1.jpg' | relative_url }}){:style="width: 80%"}
+- Ruben De Keersmaecker   
+- Karen Taelman    
 
-#### Karen Taelman
 
-![foto Karen ]({{ '/images/Profielfotokaren.jpg' | relative_url }}){:style="width: 80%"}
+
+:-------------------------:|:-------------------------:
+![foto ruben]({{ '/images/ruben.jpg' | relative_url }}){:style="width: 300px"} | ![foto Karen ]({{ '/images/Profielfotokaren.jpg' | relative_url }}){:style="width: 300px"}

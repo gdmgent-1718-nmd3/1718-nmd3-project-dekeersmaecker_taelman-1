@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+___ 
 
 :-------------------------:|:-------------------------:
 ![website home]({{ '/images/home – 1.png' | relative_url }}){:style="width: 100%"} | ![website overview]({{ '/images/product overview – 1.png' | relative_url }}){:style="width: 100%"}

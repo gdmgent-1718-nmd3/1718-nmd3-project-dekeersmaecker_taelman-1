@@ -7,25 +7,24 @@ published: true
 title: Briefing
 ---
 
-Opdracht
---------
+___ 
 
-Teamleden
----------
+## Teamleden
+
 
  - Karen Taelman
  - Ruben De Keersmaecker
 
-Gekozen Museum
---------------
-
-Gekozen museum = Mu.Zee in Oostende
+### Gekozen Museum
+Mu.Zee in Oostende
 
 ![foto buitenkant mu.ZEE]({{ '/images/mu.zee_-_kunstmuseum_aan_zee-33454-1.jpg' | relative_url }}){:style="width: 80%"}
 
+___
+
 ## Meer over het museum. 
 
-[Mu.ZEE site](https://www.muzee.be/nl/muzee){:target="_blank"}{:.btn.btn-primary}
+[Mu.ZEE](https://www.muzee.be/nl/muzee){:target="_blank"}{:.btn.btn-primary}
 
 **Mu.ZEE is** 
 

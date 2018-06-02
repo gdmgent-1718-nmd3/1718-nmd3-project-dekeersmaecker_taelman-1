@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Typografie
 ---
+___ 
 
 Deze fonts werden gekozen om dat deze goed passen bij het logo die we hebben ontworpen voor de app. 
 We maken gebruik van Arial rounded en Nunito. 

@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Planning
 ---
+___ 
 
 We hebben bij het plannen ons zoveel mogelijk gehouden aan de tijdlijn. Wanneer we een nieuw briefing kregen zijn we de week zelf nog aan de opdracht begonnen. Zo hebben we ons aan het tijdlijn kunnen houden. 
 

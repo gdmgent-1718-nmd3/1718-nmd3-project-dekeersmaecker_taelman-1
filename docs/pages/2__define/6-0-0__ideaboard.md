@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+___ 
 
 ![Ideabord 1]({{ '/images/ideabord.jpg' | relative_url }}){:style="width: 100%"}
 
