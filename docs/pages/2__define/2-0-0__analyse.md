@@ -10,11 +10,13 @@ ___
 
 ## Conclusie 
 
-Wat ons het eerst opviel was dat er heel weinig reclame was voor het muzeum. af en toe zag je wel een poster hangen, maar je zag niet meteen dat het voor Mu.ZEE was. 
-Toen we binnen gingen kregen we een boekje over de kunstwerken binnen in het muzeum en een map voor plaatsen in de stad. Het ticket was geldig bij alle tentoonstellingen in Oostende. 
-Veel bezoeker waren wel verbaast hiervan, omdat er hiervan niet veel info op de site stad. Ook de site zelf was heel verwarend voor velen. Het was moeilijk om de prijzen te vinden. En er ook geen map op de site waardoor het makkelijker is voor de bezoekers om het muzeum te vinden. Omdat deze ook heel afgelegen ligt en niet meteen in het centrum. 
+Wat ons het eerst opviel was dat er heel weinig reclame was voor het museum. af en toe zag je wel een poster hangen, maar je zag niet meteen dat het voor Mu.ZEE was. 
+Toen we binnen gingen kregen we een boekje over de kunstwerken binnen in het museum en een map voor plaatsen in de stad. Het ticket was geldig bij alle tentoonstellingen in Oostende. 
+Veel bezoeker waren wel verbaast hiervan, omdat er hiervan niet veel info op de site stad. Ook de site zelf was heel verwarend voor velen. Het was moeilijk om de prijzen te vinden. En er ook geen map op de site waardoor het makkelijker is voor de bezoekers om het museum te vinden. Omdat deze ook heel afgelegen ligt en niet meteen in het centrum. 
 
-Ook tijdens het bezoek was er soms wat verwarring waar men naartoe moest wandelen. Je had verschillende levels in het muzeum en nergens was er een kaart om te kijken waar men zich bevindt en waar er nog andere kunstwerken hingen. 
+Ook tijdens het bezoek was er soms wat verwarring waar men naartoe moest wandelen. Je had verschillende levels in het museum en nergens was er een kaart om te kijken waar men zich bevindt en waar er nog andere kunstwerken hingen. 
+
+Bij de balie kreeg je ook info over de tentoonstellingen doorheen de stad. Je krijgt een map en een boekje, maar verder weet je niet welke soort kunstwerken of wat je moet verwachten. er hangt nergens info erover aan de balie over in de ingang van het museum. 
 
 ____ 
 

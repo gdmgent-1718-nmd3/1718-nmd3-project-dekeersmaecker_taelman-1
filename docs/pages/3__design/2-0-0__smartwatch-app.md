@@ -10,6 +10,6 @@ title: Smartwatch-app
 ___ 
 
 
-Voor onze smartwatch applicatie hebben we gekozen om de Samsung Gear S te gebruiken. 
+*Maak in groep een paper prototype van de smartwatch-app en na gebruikerstesten maak je het visual design.*
 
 ![Styletile 3]({{ '/images/mockup_samsung_gear_s_smartwatch_1.jpg' | relative_url }}){:style="width: 100%"}

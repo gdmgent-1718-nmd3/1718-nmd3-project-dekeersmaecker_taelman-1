@@ -8,6 +8,4 @@ title: Screen Designs
 ---
 ___ 
 
-![Smartwatch]({{ '/images/all wireflow-01.png' | relative_url }}){:style="width: 100%"}
-
 ![Smartwatch]({{ '/images/screen designs-03.png' | relative_url }}){:style="width: 100%"}
