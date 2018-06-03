@@ -23,3 +23,28 @@ Zoals in google maps zullen de gebruikers de mappen van de routes kunnen downloa
 
 
 [Concept video](https://www.youtube.com/watch?v=1NNVfF4In5Q&feature=youtu.be){:target="_blank"}{:.btn.btn-primary}
+
+
+![Concept]({{ '/images/presentatie pitch.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch2.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch3.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch4.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch5.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch6.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch7.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch8.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch9.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch10.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch11.jpg' | relative_url }}){:style="width: 100%"}
+
+![Concept]({{ '/images/presentatie pitch12.jpg' | relative_url }}){:style="width: 100%"}

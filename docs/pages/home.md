@@ -12,10 +12,10 @@ Wie zijn we?
 ------------
 
 
-- Ruben De Keersmaecker   
-- Karen Taelman    
+**Ruben De Keersmaecker**     
 
+![foto ruben]({{ '/images/ruben.jpg' | relative_url }}){:style="width: 300px"}
 
+**Karen Taelman**  
 
-:-------------------------:|:-------------------------:
-![foto ruben]({{ '/images/ruben.jpg' | relative_url }}){:style="width: 300px"} | ![foto Karen ]({{ '/images/Profielfotokaren.jpg' | relative_url }}){:style="width: 300px"}
+![foto Karen ]({{ '/images/Profielfotokaren.jpg' | relative_url }}){:style="width: 300px"}
