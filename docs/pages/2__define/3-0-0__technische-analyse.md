@@ -38,7 +38,7 @@ ___
 - **Resolutie**: 480x360
 - **Schermtype**: OLED
 
-____________________________________________________________________
+____
 
 
 Smartphone: Samsung J5
@@ -63,3 +63,11 @@ Smartphone: Samsung J5
 - **CPU snelheid**: 1.6 GHz
 - **Werkgeheugen**: 3 GB
 
+____
+
+## Beacons
+
+Wat GPS is voor buiten – locatiebepaling – zijn Beacons voor binnen. Nauwkeurige locatiebepaling – ook binnen – onafhankelijk van of je verbonden bent met internet. De mogelijkheden die dit ontgrendelt zijn eindeloos.
+
+
+![smartwatch foto]({{ '/images/how beacons work.jpg' | relative_url }}){:style="width: 100%"} 
